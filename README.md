@@ -12,6 +12,6 @@ The deploye version can be found at https://lab3-docker.herokuapp.com.
 ## Activity 3
 ![Screenshot of Activity 3](/images/Activity3.jpg)
 
-## Activity 3
+## Activity 4
 ![Screenshot of Activity 4-1](/images/Activity4-1.jpg)
 ![Screenshot of Activity 4-2](/images/Activity4-2.jpg)
